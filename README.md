@@ -87,11 +87,3 @@ Quy ước code: giữ phong cách **gọn – rõ – nhất quán**.
 
 ## 📜 License
 Phát hành theo giấy phép **MIT**. Xem nội dung trong file `LICENSE` (hoặc sửa phần này theo chính sách của bạn).
-
----
-
-### English (brief)
-**Survey Dashboard** for visualizing campus facilities & services. Pure **HTML + Tailwind + Chart.js**, no backend.  
-- Filters by **Faculty** & **Criterion**, live **KPI**, **Bar** & **Doughnut** charts, compact table.  
-- CSV parser tolerates commas in the first column, supports ratio/percentage inputs.  
-Deploy easily with **GitHub Pages**.
